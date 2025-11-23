@@ -16,11 +16,14 @@ A multimodal AI chat system built using **Gemma 3 models**, supporting:
 ---
 
 ## 2. Folder Structure
+
+```
 GemmaX-ChatCore/
 │
 ├── GemmaX_ChatCore.ipynb      # Main notebook
 ├── assets/                    # Image files for multimodal demos
 └── README.md
+```
 
 
 
